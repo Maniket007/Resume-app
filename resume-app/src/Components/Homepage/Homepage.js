@@ -19,10 +19,10 @@ function HomePage(){
                 </p>
                 <div>
                     <a href="https://github.com/Maniket007" target="_blank">
-                        <img src={github} alt="githubImage"/>
+                        <img src={github} alt="githubImage" className="homepage_logo"/>
                     </a>
                     <a href="https://www.linkedin.com/in/maniket-kumar-55360216b/" target="_blank">
-                        <img src={linkedin} alt="linkedinImage"/>
+                        <img src={linkedin} alt="linkedinImage"className="homepage_logo"/>
                     </a>
                 </div>
                 <a href="sonuanand644@gmail.com">

@@ -19,10 +19,10 @@
     margin: -15px 0;
 }
 .Homepage_left_h3{
-    font-size: 25px;
+    font-size: 30px;
 }
 .Homepage_left_description{
-    font-size: 15px;
+    font-size: 20px;
 }
 .homepage_left_button{
     margin-top: 25px;
@@ -31,4 +31,8 @@
     background-color: black;
     color: red;
     cursor: pointer;
+}
+.homepage_logo{
+    height: 60px;
+
 }
